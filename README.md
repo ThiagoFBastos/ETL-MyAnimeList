@@ -6,6 +6,8 @@ programa realiza uma requisição GET em https://api.jikan.moe/v4/anime/{id}/new
 alvo, armazenando no máximo 3, e após isso envia de um email para outro uma mensagem com uma tabela html com algumas informações 
 dessas notícias.
 
+![ScreenShot](https://github.com/ThiagoFBastos/ETL-MyAnimeList/blob/main/screenshot.png)
+
 ## Requisitos
 - biblioteca requests
 - biblioteca sendgrid
