@@ -26,5 +26,5 @@ dessas notícias.
 5. No terminal digite python3 main.py [email remetente] [email-destinatário]
 	- Exemplo:
 	```
-		python3 main.py origem@gmai.com destino@gmail.com
+		python3 main.py origem@gmail.com destino@gmail.com
 	``` 
