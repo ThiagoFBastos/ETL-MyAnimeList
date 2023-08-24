@@ -23,7 +23,7 @@ dessas notícias.
 	```
 	SENDGRID_API_KEY="{TOKEN do SendGrid}"
 	```
-5. No terminal digite python3 main.py <email-remetente> <email-destinatário>
+5. No terminal digite python3 main.py [email remetente] [email-destinatário]
 	- Exemplo:
 	```
 		python3 main.py origem@gmai.com destino@gmail.com
