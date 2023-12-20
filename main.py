@@ -84,7 +84,7 @@ def send(news, email_src, email_dest):
 		print(response.body)
 		print(response.headers)
 	except Exception as e:
-		print(e.message)
+		print(e)
 
 def main():
 
